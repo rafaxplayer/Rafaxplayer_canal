@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group_playlist"
+        android:checkableBehavior="single">
+        <item android:title="Listas de Reproduccion">
+            <menu>
+            </menu>
+        </item>
+    </group>
+    <group
+        android:id="@+id/group_config"
+        android:checkableBehavior="single">
+        <item android:title="Aplicacion">
+            <menu>
+                <item android:title="Ajustes"
+                    android:id="@+id/settings">
+
+                </item>
+                <item android:title="Acerca de..">
+
+                </item>
+            </menu>
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="listArray">
+        <item>Extra Pequeño</item>
+        <item>Pequeño</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Extra Grande</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>10</item>
+        <item>14</item>
+        <item>16</item>
+        <item>22</item>
+        <item>26</item>
+    </string-array>
+</resources>
